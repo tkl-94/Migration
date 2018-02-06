@@ -6,7 +6,7 @@ public class Mda {
 	private String ville;
 	private String pays;
 	private String test;
-	private String val;
+	
 	
 
 }
