@@ -7,6 +7,6 @@ public class Mda {
 	private String pays;
 	private String test;
 	private String val;
-	private String str;
+	
 
 }
