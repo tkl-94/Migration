@@ -5,7 +5,7 @@ public class Mda {
 	private String prenom;
 	private String ville;
 	private String pays;
-	private String test;
+	
 	
 	
 
