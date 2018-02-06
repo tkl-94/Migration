@@ -40,6 +40,12 @@ public class Mda {
 	public void setPays(String pays) {
 		this.pays = pays;
 	}
+	@Override
+	public String toString() {
+		return "Mda [name=" + name + ", prenom=" + prenom + ", ville=" + ville + ", pays=" + pays + "]";
+	}
+	
+	
 	
 	
 	
