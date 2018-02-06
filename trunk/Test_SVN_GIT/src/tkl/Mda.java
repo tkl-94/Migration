@@ -18,6 +18,18 @@ public class Mda {
 	public void setPrenom(String prenom) {
 		this.prenom = prenom;
 	}
+	public String getVille() {
+		return ville;
+	}
+	public void setVille(String ville) {
+		this.ville = ville;
+	}
+	public String getPays() {
+		return pays;
+	}
+	public void setPays(String pays) {
+		this.pays = pays;
+	}
 	
 	
 	
