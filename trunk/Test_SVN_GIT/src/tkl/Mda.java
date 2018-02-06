@@ -6,6 +6,16 @@ public class Mda {
 	private String ville;
 	private String pays;
 	
+	
+	
+	
+	public Mda(String name, String prenom, String ville, String pays) {
+		super();
+		this.name = name;
+		this.prenom = prenom;
+		this.ville = ville;
+		this.pays = pays;
+	}
 	public String getName() {
 		return name;
 	}
